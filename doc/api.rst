@@ -13,6 +13,11 @@ API
 SoC
 -------------
 
-* Function call **SoC**
+* Function call **SoC*
+
+SoH
+-------------
+
+* Function call **SoH*
 
 

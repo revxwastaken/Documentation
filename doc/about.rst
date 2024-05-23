@@ -1,6 +1,6 @@
 .. _about:
 
-.. image:: _templates/images/TuringX.png
+.. image:: images/TuringX.png
    :alt: Turing Config
    :scale: 10%
    :align: center
@@ -17,7 +17,7 @@ Setting it up
 
 * Download **this**
 
-.. figure:: _templates/images/homelight.png
+.. figure:: images/homelight.png
    :alt: TuringX homepage
    :align: center
 
